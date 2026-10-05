@@ -1,0 +1,100 @@
+[
+    {
+        "usuario_id": 3,
+        "produto": "FeedApp",
+        "texto": "Muito fácil de usar!",
+        "nota": 9.0,
+        "data": "05/09/2026"
+    },
+    {
+        "usuario_id": 3,
+        "produto": "FeedApp",
+        "texto": "Ficou mais rápido",
+        "nota": 8.0,
+        "data": "12/09/2026"
+    },
+    {
+        "usuario_id": 3,
+        "produto": "FeedApp",
+        "texto": "Comandos claros agora",
+        "nota": 9.5,
+        "data": "20/09/2026"
+    },
+    {
+        "usuario_id": 3,
+        "produto": "FeedBot",
+        "texto": "Respostas confusas",
+        "nota": 4.0,
+        "data": "22/09/2026"
+    },
+    {
+        "usuario_id": 3,
+        "produto": "FeedBot",
+        "texto": "Ainda erra bastante",
+        "nota": 5.0,
+        "data": "25/09/2026"
+    },
+    {
+        "usuario_id": 3,
+        "produto": "FeedApp",
+        "texto": "Perfeito para enviar feedback",
+        "nota": 10.0,
+        "data": "28/09/2026"
+    },
+    {
+        "usuario_id": 1,
+        "produto": "FeedApp",
+        "texto": "Falta feedback visual",
+        "nota": 7.0,
+        "data": "01/09/2026"
+    },
+    {
+        "usuario_id": 1,
+        "produto": "FeedBot",
+        "texto": "Interface pode melhorar",
+        "nota": 6.0,
+        "data": "03/09/2026"
+    },
+    {
+        "usuario_id": 1,
+        "produto": "FeedDash",
+        "texto": "Gráficos úteis",
+        "nota": 8.0,
+        "data": "07/09/2026"
+    },
+    {
+        "usuario_id": 2,
+        "produto": "FeedDash",
+        "texto": "Métricas claras e rápidas",
+        "nota": 9.0,
+        "data": "10/09/2026"
+    },
+    {
+        "usuario_id": 2,
+        "produto": "FeedBot",
+        "texto": "Não entendeu minhas perguntas",
+        "nota": 3.0,
+        "data": "18/09/2026"
+    },
+    {
+        "usuario_id": 4,
+        "produto": "FeedApp",
+        "texto": "Design bonito",
+        "nota": 8.0,
+        "data": "02/09/2026"
+    },
+    {
+        "usuario_id": 4,
+        "produto": "FeedDash",
+        "texto": "Poderia exportar em PDF",
+        "nota": 7.0,
+        "data": "09/09/2026"
+    },
+    {
+        "usuario_id": 5,
+        "produto": "FeedBot",
+        "texto": "Instável",
+        "nota": 4.5,
+        "data": "23/09/2026"
+    }
+]

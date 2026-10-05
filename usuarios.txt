@@ -1,0 +1,5 @@
+1;João Pereira;22;Estudante de TI;Testador
+2;Marina Costa;35;Gerente de produto;Administrador
+3;Carlos Souza;50;Contador;Usuário final
+4;Ana Lima;28;Designer;Usuário final
+5;Rafael Alves;41;Engenheiro;Usuário final

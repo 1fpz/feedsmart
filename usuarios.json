@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "nome": "João Pereira",
+        "idade": 22,
+        "profissao": "Estudante de TI",
+        "tipo": "Testador"
+    },
+    {
+        "id": 2,
+        "nome": "Marina Costa",
+        "idade": 35,
+        "profissao": "Gerente de produto",
+        "tipo": "Administrador"
+    },
+    {
+        "id": 3,
+        "nome": "Carlos Souza",
+        "idade": 50,
+        "profissao": "Contador",
+        "tipo": "Usuário final"
+    },
+    {
+        "id": 4,
+        "nome": "Ana Lima",
+        "idade": 28,
+        "profissao": "Designer",
+        "tipo": "Usuário final"
+    },
+    {
+        "id": 5,
+        "nome": "Rafael Alves",
+        "idade": 41,
+        "profissao": "Engenheiro",
+        "tipo": "Usuário final"
+    }
+]

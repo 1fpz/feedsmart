@@ -1,0 +1,14 @@
+3;FeedApp;9.0;05/09/2026;Muito fácil de usar!
+3;FeedApp;8.0;12/09/2026;Ficou mais rápido
+3;FeedApp;9.5;20/09/2026;Comandos claros agora
+3;FeedBot;4.0;22/09/2026;Respostas confusas
+3;FeedBot;5.0;25/09/2026;Ainda erra bastante
+3;FeedApp;10.0;28/09/2026;Perfeito para enviar feedback
+1;FeedApp;7.0;01/09/2026;Falta feedback visual
+1;FeedBot;6.0;03/09/2026;Interface pode melhorar
+1;FeedDash;8.0;07/09/2026;Gráficos úteis
+2;FeedDash;9.0;10/09/2026;Métricas claras e rápidas
+2;FeedBot;3.0;18/09/2026;Não entendeu minhas perguntas
+4;FeedApp;8.0;02/09/2026;Design bonito
+4;FeedDash;7.0;09/09/2026;Poderia exportar em PDF
+5;FeedBot;4.5;23/09/2026;Instável
